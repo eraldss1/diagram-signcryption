@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:39:32.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Srv9OyGV4BHA_dY7PeTg" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:40:21.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="k9ciKyB9SIpY2ZSXi6Do" version="20.0.4" type="github" pages="5">
   <diagram id="2smShY49FXA9xs--DSBv" name="encrypt-then-sign">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -637,7 +637,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of f-enkripsi-sign" id="0zvO9jwCQayaNRaevtma">
+  <diagram name="f-sign-encrypt" id="0zvO9jwCQayaNRaevtma">
     <mxGraphModel dx="1038" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="O_dB34PbpiQoDTX2doQL-0" />
@@ -686,12 +686,6 @@
         </mxCell>
         <mxCell id="O_dB34PbpiQoDTX2doQL-16" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
           <mxGeometry x="295" y="332.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O_dB34PbpiQoDTX2doQL-17" value="&lt;i&gt;Generate signature &lt;/i&gt;dari &lt;i&gt;chipertext &lt;/i&gt;dengan Algoritma &lt;i&gt;Robust Digital Signature&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
-          <mxGeometry x="640" y="370" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O_dB34PbpiQoDTX2doQL-18" value="Enkripsi &lt;i&gt;Plaintext &lt;/i&gt;dengan&amp;nbsp;&lt;i&gt;Double Conjugacy Search&lt;/i&gt;&lt;br&gt;&lt;i&gt;Problem Near-Ring&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
-          <mxGeometry x="425" y="470" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
