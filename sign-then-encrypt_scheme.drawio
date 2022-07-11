@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:43:55.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tZfjdjkzNDghKO2Epgjl" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:54:08.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="w5fgnc0eqc9xaRIQ4-x2" version="20.0.4" type="github" pages="6">
   <diagram id="2smShY49FXA9xs--DSBv" name="encrypt-then-sign">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -638,7 +638,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="f-sign-encrypt" id="0zvO9jwCQayaNRaevtma">
-    <mxGraphModel dx="1038" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="O_dB34PbpiQoDTX2doQL-0" />
         <mxCell id="O_dB34PbpiQoDTX2doQL-1" parent="O_dB34PbpiQoDTX2doQL-0" />
@@ -686,6 +686,53 @@
         </mxCell>
         <mxCell id="O_dB34PbpiQoDTX2doQL-16" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
           <mxGeometry x="295" y="332.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J13WICSV8yZSmzrB7RAo" name="f-verify-decrypt">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-1" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="d0eTd-vhjVN6kes0Mjvl-2" target="d0eTd-vhjVN6kes0Mjvl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-2" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="d0eTd-vhjVN6kes0Mjvl-3" target="d0eTd-vhjVN6kes0Mjvl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-3" value="Output hasil verifikasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="155" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="d0eTd-vhjVN6kes0Mjvl-4" target="d0eTd-vhjVN6kes0Mjvl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-4" value="Input chipertext dan signature" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="230" y="35" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="d0eTd-vhjVN6kes0Mjvl-7" target="d0eTd-vhjVN6kes0Mjvl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-7" value="Verifikasi signature berdasarkan chipertext dengan Algoritma Robust Digital Signature" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="d0eTd-vhjVN6kes0Mjvl-8" target="XPA8Uso_1x6j-vcNtdZx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0eTd-vhjVN6kes0Mjvl-8" value="Dekripsi chipertext dengan Algoritma&amp;nbsp;&lt;i&gt;Double Conjugacy Search&lt;/i&gt;&lt;br&gt;&lt;i&gt;Problem Near-Ring&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="XPA8Uso_1x6j-vcNtdZx-1" target="d0eTd-vhjVN6kes0Mjvl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPA8Uso_1x6j-vcNtdZx-1" value="Output plaintext" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
