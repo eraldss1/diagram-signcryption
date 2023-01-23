@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T11:02:16.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="z0XUElJr5sfHR5N0KBi4" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-23T11:20:11.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TGRjLD5t4XjmfuOnE01A" version="20.7.4" type="github" pages="4">
   <diagram id="MRtCduSZLXnRyhfDSDcq" name="Bobot">
-    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fptKEY-xYE4F-jXuWim--1" target="fptKEY-xYE4F-jXuWim--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fptKEY-xYE4F-jXuWim--1" value="&lt;font color=&quot;#000000&quot;&gt;User&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=none;strokeColor=#505050;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_female;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="32" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fptKEY-xYE4F-jXuWim--4" target="leWRjpn4SE1v4b5D5HFP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fptKEY-xYE4F-jXuWim--4" value="Input Lokasi User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#505050;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;fillColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="188" y="128.75" width="50" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leWRjpn4SE1v4b5D5HFP-1" target="leWRjpn4SE1v4b5D5HFP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-1" value="Pemilihan Kriteria &lt;br&gt;oleh User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="leWRjpn4SE1v4b5D5HFP-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-10" value="Perhitungan Jarak&amp;nbsp;&lt;br&gt;Haversine Formula" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/glyphpack/60/function-128.png;strokeColor=#505050;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="446" y="129.75" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leWRjpn4SE1v4b5D5HFP-11" target="leWRjpn4SE1v4b5D5HFP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-11" value="" style="shape=mxgraph.rack.oracle.sun_storage_2500-m2_array;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=none;strokeColor=#505050;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="280" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-13" value="Perhitungan Metode WASPAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="360" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="leWRjpn4SE1v4b5D5HFP-14" value="Hasil Rekomendasi&amp;nbsp;&lt;br&gt;Sekolah" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/barchart-graph-stat-statistics-summary-128.png;strokeColor=#505050;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
