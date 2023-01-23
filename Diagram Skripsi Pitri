@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T11:21:03.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KntocIe-Se6S1ffVq4ul" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-23T11:28:58.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AWIAoB9rlB8MdsUa3UDR" version="20.7.4" type="github" pages="3">
   <diagram id="MRtCduSZLXnRyhfDSDcq" name="Bobot">
     <mxGraphModel dx="1050" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,14 @@
         <mxCell id="leWRjpn4SE1v4b5D5HFP-14" value="Hasil Rekomendasi&amp;nbsp;&lt;br&gt;Sekolah" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/barchart-graph-stat-statistics-summary-128.png;strokeColor=#505050;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="275" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w52mfRFLcNCNoLe4e2wg" name="Flowchart Sistem">
+    <mxGraphModel dx="1050" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
