@@ -1,14 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T07:56:38.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="f-P_vZxdscUxBhvV-Bzv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T08:16:21.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="d4rgnBigPfbTVYFQ2O6t" type="github">
   <diagram id="MRtCduSZLXnRyhfDSDcq" name="Page-1">
     <mxGraphModel dx="700" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Oh9Eetztmci-4h1RCb-b-1" value="Pembagian Kuesioner melalui&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;i&gt;Google Form&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="1">
-          <mxGeometry x="60" y="10" width="56" height="49" as="geometry" />
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="40" as="targetPoint" />
+            <mxPoint x="130" y="40" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Oh9Eetztmci-4h1RCb-b-9" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#505050;shape=mxgraph.gcp2.bucket_scale" vertex="1" parent="1">
-          <mxGeometry x="38" y="150" width="100" height="81" as="geometry" />
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-1" value="Pembagian Kuesioner melalui&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;i&gt;Google Form&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-10" value="Pembuatan Program &lt;br&gt;Sistem" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=#505050;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="30.77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mobile_user;" vertex="1" parent="1">
+          <mxGeometry x="13" y="220" width="59" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;" vertex="1" parent="1">
+          <mxGeometry x="125" y="390" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-24" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#505050;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="113" y="270" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#505050;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="53" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-26" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#505050;shape=mxgraph.gcp2.cloud_computer" vertex="1" parent="1">
+          <mxGeometry x="13" y="290" width="100" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calculator;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="32" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="196" y="12" width="133" height="96.32" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-9" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#505050;shape=mxgraph.gcp2.bucket_scale" vertex="1" parent="Oh9Eetztmci-4h1RCb-b-40">
+          <mxGeometry x="34" width="65" height="52.65" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-39" value="Penentuan bobot Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Oh9Eetztmci-4h1RCb-b-40">
+          <mxGeometry y="56.32" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh9Eetztmci-4h1RCb-b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="38.32499999999999" as="targetPoint" />
+            <mxPoint x="310" y="38" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="38" />
+              <mxPoint x="350" y="38" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
