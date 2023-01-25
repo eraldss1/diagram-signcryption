@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T08:08:11.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kDgjK5ppjdaL7mtsLNtb" version="20.8.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-25T09:49:17.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="X7u-ELSNcTyBEdU3BeN-" version="20.8.10" type="github" pages="5">
   <diagram name="sign-then-encrypt" id="DHkw1SrHR3UGD6Jk1dp7">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="CVeZfb0y-qFvycMCLMW2-0" />
         <mxCell id="CVeZfb0y-qFvycMCLMW2-1" parent="CVeZfb0y-qFvycMCLMW2-0" />
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="f-keygen-NIST" id="ZlP5QWd9unQz9jGWmIxN">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AXw94gbj2zPE4nH5OnSq-0" />
         <mxCell id="AXw94gbj2zPE4nH5OnSq-1" parent="AXw94gbj2zPE4nH5OnSq-0" />
@@ -331,7 +331,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iyMB5ltMrHM5h2Xzh4SW" name="f-keygen-KhanShah">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="f-sign-encrypt" id="0zvO9jwCQayaNRaevtma">
-    <mxGraphModel dx="1313" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="O_dB34PbpiQoDTX2doQL-0" />
         <mxCell id="O_dB34PbpiQoDTX2doQL-1" parent="O_dB34PbpiQoDTX2doQL-0" />
