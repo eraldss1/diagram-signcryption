@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T08:01:25.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eedkX7WxWMXEaJN39Uz7" version="20.8.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-25T08:08:11.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kDgjK5ppjdaL7mtsLNtb" version="20.8.10" type="github" pages="5">
   <diagram name="sign-then-encrypt" id="DHkw1SrHR3UGD6Jk1dp7">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
         <mxCell id="b-gFmE-fm9yg7wwnUPRS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="O_dB34PbpiQoDTX2doQL-1" source="lQNvQkmgK5k9zMCm9d8V-8" target="lQNvQkmgK5k9zMCm9d8V-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lQNvQkmgK5k9zMCm9d8V-8" value="&lt;i&gt;Output &lt;br&gt;Chipertext Siganture&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
+        <mxCell id="lQNvQkmgK5k9zMCm9d8V-8" value="&lt;i&gt;Output &lt;br&gt;Ciphertext Siganture&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="O_dB34PbpiQoDTX2doQL-1">
           <mxGeometry x="35" y="270" width="170" height="65" as="geometry" />
         </mxCell>
       </root>
@@ -477,44 +477,44 @@
       <root>
         <mxCell id="uiszpXuZ4eJFADpwGqzt-0" />
         <mxCell id="uiszpXuZ4eJFADpwGqzt-1" parent="uiszpXuZ4eJFADpwGqzt-0" />
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-2" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="50" y="265" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-4" target="uiszpXuZ4eJFADpwGqzt-8" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-6" target="uiszpXuZ4eJFADpwGqzt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-4" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="uiszpXuZ4eJFADpwGqzt-6" value="Output &lt;br&gt;&lt;i&gt;Plaintext Signature&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
+          <mxGeometry x="420" y="137.5" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-6" target="uiszpXuZ4eJFADpwGqzt-12" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-8" target="uiszpXuZ4eJFADpwGqzt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-6" value="Output &lt;i&gt;plaintext signature&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="435" y="157.5" width="130" height="65" as="geometry" />
+        <mxCell id="uiszpXuZ4eJFADpwGqzt-8" value="Input &lt;br&gt;&lt;i&gt;Ciphertext S&lt;/i&gt;&lt;i&gt;ignature&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
+          <mxGeometry x="205" y="25" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-8" target="uiszpXuZ4eJFADpwGqzt-10" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-10" target="uiszpXuZ4eJFADpwGqzt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-8" value="Input &lt;i&gt;chipertext &lt;/i&gt;&lt;br&gt;&lt;i&gt;signature&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="230" y="35" width="140" height="70" as="geometry" />
+        <mxCell id="uiszpXuZ4eJFADpwGqzt-10" value="Dekripsi C&lt;i&gt;iphertext Signature&amp;nbsp;&lt;/i&gt;dengan Algoritma Khan-Shah&lt;i&gt; Cryptosystem&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
+          <mxGeometry x="405" y="20" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-10" target="uiszpXuZ4eJFADpwGqzt-6" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-12" target="uiszpXuZ4eJFADpwGqzt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-10" value="Dekripsi &lt;i&gt;chipertext signature&amp;nbsp;&lt;/i&gt;dengan Algoritma &lt;i&gt;Khan-Shah&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="420" y="30" width="160" height="80" as="geometry" />
+        <mxCell id="uiszpXuZ4eJFADpwGqzt-12" value="Verifikasi &lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Plaintext &lt;/i&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;awal&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;menggunakan&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Signature&amp;nbsp;&lt;/i&gt;&lt;br&gt;&amp;nbsp;dengan Algoritma NIST DSA" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
+          <mxGeometry x="215" y="130" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-12" target="uiszpXuZ4eJFADpwGqzt-14" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-14" target="1vXpjsxrH3Nqfb-Vzssc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-12" value="Verifikasi &lt;i&gt;signature &lt;/i&gt;berdasarkan &lt;i&gt;plaintext &lt;/i&gt;dengan NIST" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="220" y="150" width="160" height="80" as="geometry" />
+        <mxCell id="uiszpXuZ4eJFADpwGqzt-14" value="Output &lt;br&gt;Hasil Verifikasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
+          <mxGeometry x="20" y="136.25" width="140" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" source="uiszpXuZ4eJFADpwGqzt-14" target="uiszpXuZ4eJFADpwGqzt-2" edge="1">
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="uiszpXuZ4eJFADpwGqzt-1" source="1vXpjsxrH3Nqfb-Vzssc-0" target="uiszpXuZ4eJFADpwGqzt-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uiszpXuZ4eJFADpwGqzt-14" value="Output hasil verifikasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;" parent="uiszpXuZ4eJFADpwGqzt-1" vertex="1">
-          <mxGeometry x="40" y="156.25" width="140" height="67.5" as="geometry" />
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-0" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="uiszpXuZ4eJFADpwGqzt-1">
+          <mxGeometry x="45" y="30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1vXpjsxrH3Nqfb-Vzssc-1" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="uiszpXuZ4eJFADpwGqzt-1">
+          <mxGeometry x="45" y="250" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
